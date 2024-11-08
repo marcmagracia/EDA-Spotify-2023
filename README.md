@@ -132,13 +132,15 @@ _The following questions are expected to be answered using the analysis:_
 ### Program Execution
 * To successfully run both program files, select a specific cell and press Shift + Enter.
 * To use Pandas, Matplotlib, and Seaborn, they must be imported using 'import pandas as pd', 'import matplotlib.pyplot as plt', and 'import seaborn as sns'.
-* Store the corresponding .csv file into a data frame named cars using pandas attribute 'read_csv'.
+* Store the 'spotify-2023.csv' file into a data frame using pandas attribute 'read_csv'.
 
 
 ## Author
 _Magracia, Marc Reggie Sean S. | 2ECE-C_
 
 ## Version History
+* v1.3 (08 November 2024)
+  * Updated README file
 * v1.2 (03 November 2024)
   * Uploaded the Data Analysis file (.ipynb)
   * Updated README file
